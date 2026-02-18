@@ -1,4 +1,4 @@
-
+# Please note that you'll need your own unique GoogleServices-info.plist added to your project directory from firebase
 # 🚀 Getting Started
 
 ## 1. Clone the Repo
