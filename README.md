@@ -1,4 +1,6 @@
 # Please note that you'll need your own unique GoogleServices-info.plist added to your project directory from firebase
+https://firebase.google.com
+and the SDK from https://github.com/firebase/firebase-ios-sdk
 # 🚀 Getting Started
 
 ## 1. Clone the Repo
