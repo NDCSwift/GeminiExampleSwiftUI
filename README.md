@@ -15,9 +15,11 @@ GeminiExampleSwiftUI is the quickest path to running Gemini AI in a SwiftUI app.
 - **Async/await throughout** — no completion handlers, clean Swift concurrency
 - **Drop-in chat UI** — `ScrollView` + `TextField` + send button pattern you can extend immediately
 
-## 📺 From the NoahDoesCoding YouTube Channel
+## 📺 Watch on YouTube
 
-This project is a companion to a tutorial on [@NoahDoesCoding97](https://youtu.be/TF5RLVvzWI4). Subscribe for weekly SwiftUI tutorials.
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/TF5RLVvzWI4)
+
+> This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97). Subscribe for weekly SwiftUI tutorials.
 
 ---
 
@@ -68,4 +70,4 @@ Select a simulator or connected device and hit **Run**.
 - iOS 17+
 - Firebase project with Gemini API enabled
 
-📺 [Watch the guide on YouTube](https://www.youtube.com/@NoahDoesCoding97)
+📺 [Watch the guide on YouTube](https://youtu.be/TF5RLVvzWI4)
