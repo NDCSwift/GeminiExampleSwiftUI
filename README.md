@@ -17,7 +17,7 @@ GeminiExampleSwiftUI is the quickest path to running Gemini AI in a SwiftUI app.
 
 ## 📺 From the NoahDoesCoding YouTube Channel
 
-This project is a companion to a tutorial on [@NoahDoesCoding97](https://www.youtube.com/@NoahDoesCoding97). Subscribe for weekly SwiftUI tutorials.
+This project is a companion to a tutorial on [@NoahDoesCoding97](https://youtu.be/TF5RLVvzWI4). Subscribe for weekly SwiftUI tutorials.
 
 ---
 
